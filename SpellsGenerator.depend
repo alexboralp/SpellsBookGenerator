@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1161052936 source:c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\generadordeconjuros\spellsgenerator\aes.c
+	"aes.h"
+
+1161052936 c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\generadordeconjuros\spellsgenerator\aes.h
+
+1559071183 source:c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\generadordeconjuros\spellsgenerator\spellsgenerator.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	"aes_string.h"
+	"sha256.h"
+
+1558999949 
+
+1559060789 c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\generadordeconjuros\spellsgenerator\aes_string.h
+
+1559071397 source:c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\generadordeconjuros\spellsgenerator\aes_string.cpp
+	"aes.h"
+	<iostream>
+	<cstring>
+
+1558999980 source:c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\generadordeconjuros\spellsgenerator\sha256.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
+1558999949 c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\generadordeconjuros\spellsgenerator\sha256.h
+	<string>
+
+1161052936 source:/home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/GeneradorDeConjuros/SpellsGenerator/aes.c
+	"aes.h"
+
+1161052936 /home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/GeneradorDeConjuros/SpellsGenerator/aes.h
+
+1558999980 source:/home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/GeneradorDeConjuros/SpellsGenerator/sha256.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
+1558999949 /home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/GeneradorDeConjuros/SpellsGenerator/sha256.h
+	<string>
+
+1559096700 source:/home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/GeneradorDeConjuros/SpellsGenerator/SpellsGenerator.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	"aes_string.h"
+	"sha256.h"
+
+1559095897 /home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/GeneradorDeConjuros/SpellsGenerator/aes_string.h
+
+1559096437 source:/home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/GeneradorDeConjuros/SpellsGenerator/aes_string.cpp
+	<iostream>
+	<cstring>
+	"aes.h"
+
