@@ -14,7 +14,7 @@
 	"aes_string.h"
 	"sha256.h"
 
-1558999949 
+1559139591 
 
 1559060789 c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\generadordeconjuros\spellsgenerator\aes_string.h
 
@@ -60,4 +60,75 @@
 	<iostream>
 	<cstring>
 	"aes.h"
+
+1559139591 source:c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\spellsbookgenerator\aes.c
+	"aes.h"
+
+1559139591 c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\spellsbookgenerator\aes.h
+
+1559139591 source:c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\spellsbookgenerator\aes_string.cpp
+	<iostream>
+	<cstring>
+	"aes.h"
+
+1559139591 source:c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\spellsbookgenerator\sha256.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
+1559139591 c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\spellsbookgenerator\sha256.h
+	<string>
+
+1559163176 source:c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\spellsbookgenerator\spellsgenerator.cpp
+	<omp.h>
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	"aes_string.h"
+	"sha256.h"
+
+1559139591 c:\users\aborbon\dropbox\tecnologico\ingenieriaencomputacion\2019i\analisisalgoritmos\proyecto2\spellsbookgenerator\aes_string.h
+
+1559139591 source:/home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/SpellsBookGenerator/aes.c
+	"aes.h"
+
+1559139591 /home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/SpellsBookGenerator/aes.h
+
+1559172106 source:/home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/SpellsBookGenerator/aes_string.cpp
+	<iostream>
+	<cstring>
+	"aes.h"
+
+1559139591 source:/home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/SpellsBookGenerator/sha256.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
+1559139591 /home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/SpellsBookGenerator/sha256.h
+	<string>
+
+1559190657 source:/home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/SpellsBookGenerator/SpellsGenerator.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	"aes_string.h"
+	"sha256.h"
+
+1559139591 /home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/SpellsBookGenerator/aes_string.h
+
+1559190160 source:/home/alexander/Dropbox/Tecnologico/IngenieriaEnComputacion/2019I/AnalisisAlgoritmos/Proyecto2/SpellsBookGenerator/SpellsCheck.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<time.h>
+	"aes_string.h"
+	"sha256.h"
 

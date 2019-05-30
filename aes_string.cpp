@@ -63,6 +63,8 @@ void aes_encrypt(std::string input, unsigned char* texto_encriptado)
             texto_plano += " ";
         }
 
+        //std::cout << "Plano: " << texto_plano << '\n';
+
         /* Set the plain-text */
         memcpy( buf, texto_plano.c_str(), 16);
 
@@ -70,6 +72,7 @@ void aes_encrypt(std::string input, unsigned char* texto_encriptado)
 
         /* Se obtiene el texto encriptado */
         memcpy (&texto_encriptado[paso], buf, 16);
+        //std::cout << "Encriptado: "<< texto_encriptado << '\n';
     }
 }
 
